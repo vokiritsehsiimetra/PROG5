@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------------------------------------------
+According to the human analyze there are everything already as simple as it could be, no repeat functions and SOLID
+-------------------------------------------------------------------------------------------------------------------
+According to the AI (we used ChatGPT) we can use Enum for the calibration hex values, but from our point of view 
+this defines has no meaning because they just add new variables to the code that will be used only once, so this 
+advice was not used. And the code from the start was pretty logical.
+-------------------------------------------------------------------------------------------------------------------  
